@@ -1,4 +1,4 @@
-# ECE-GY 7123 Introduction to Deep Learning Mini-Project
+# ECE-GY 7123 Introduction to Deep Learning Final-Project
 
 - This is the Final Project for ECE-GY 7123 Introduction to Deep Learning. The goal of this project is to construct an model that can generate music.
 
