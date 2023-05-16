@@ -14,15 +14,15 @@ In recent years, a growing interest has been in leveraging machine learning tech
 
 ----------------------------------------------------------------
 **Required Libraries:**
--keras
--tensorflow
--pretty_midi
--pandas
--numpy
--fluidsynth
+  -keras
+  -tensorflow
+  -pretty_midi
+  -pandas
+  -numpy
+  -fluidsynth
 
 **Data:**
-you can download the dataset from : "https://storage.googleapis.com/magentadata/datasets/maestro/v3.0.0/maestro-v3.0.0-midi.zip'
+you can download the dataset from : 'https://storage.googleapis.com/magentadata/datasets/maestro/v3.0.0/maestro-v3.0.0-midi.zip'
 
 ----
 ### End
